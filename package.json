@@ -146,7 +146,8 @@
     "through": "^2.3.4",
     "tiny-lr": "0.1.4",
     "walk-sync": "0.1.3",
-    "yam": "0.0.17"
+    "yam": "0.0.17",
+    "ember-cli-dependency-checker": "marcioj/ember-cli-dependency-checker#dont-check-on-instantiation"
   },
   "devDependencies": {
     "chai": "^1.9.1",
